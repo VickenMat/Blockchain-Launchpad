@@ -8,6 +8,16 @@
 
 #### [Understanding Blockchain Technology - BuiltIn](https://builtin.com/blockchain)
 
+### The Makeup of a Blockchain
+
+#### [Blocks - Ethereum](https://ethereum.org/en/developers/docs/blocks/)
+
+#### [Transactions - Ethereum](https://ethereum.org/en/developers/docs/transactions/)
+
+#### [Accounts - Ethereum](https://ethereum.org/en/developers/docs/accounts/)
+
+#### [Gas and Fees - Ethereum](https://ethereum.org/en/developers/docs/gas/)
+
 
 #### Video [Blockchain Tutorial - SimpliLearn](https://www.simplilearn.com/tutorials/blockchain-tutorial)
 
@@ -33,20 +43,50 @@
 
 #### [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
+#### [Intro to Ethereum - Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
+
+#### [Intro to Ether - Ethereum](https://ethereum.org/en/developers/docs/intro-to-ether/)
+
+#### [Networks - Ethereum](https://ethereum.org/en/developers/docs/networks/)
+
 #### [What is Ethereum - Investopedia](https://www.investopedia.com/terms/e/ethereum.asp)
 
-#### [Proof of Stake]
-
 ### [BTC/ETH Game Theory - Medium](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
+
+### Token Standards
+
+#### [ERC-20 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+
+#### [ERC-721 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
+
+#### [ERC-1155 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 
 
 ## Layer 2
 
+### Scaling a Blockchain
+
+#### [Scaling - Ethereum](https://ethereum.org/en/developers/docs/scaling/)
+
+#### [Optimistic Rollups - Ethereum](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)
+
+#### [Zero Knowledge Rollups - Ethereum](https://ethereum.org/en/developers/docs/scaling/zk-rollups/)
+
+#### [State Channels - Ethereum](https://ethereum.org/en/developers/docs/scaling/state-channels/)
+
+#### [Sidechains - Ethereum](https://ethereum.org/en/developers/docs/scaling/sidechains)
+
+#### [Plasma - Ethereum](https://ethereum.org/en/developers/docs/scaling/plasma)
+
+#### [Validium - Ethereum](https://ethereum.org/en/developers/docs/scaling/validium/)
+
+### Oracles
+
+#### [Oracles - Ethereum](https://ethereum.org/en/developers/docs/oracles/)
+
 ### Chainlink
 
-#### [Chainlink and Blockchain - Hackernoon](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283)
-
-**read this
+### [Chainlink and Blockchain - Hackernoon](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283)
 
 #### [Chainlink Use Cases](https://blog.chain.link/smart-contract-use-cases/)
 
@@ -55,7 +95,22 @@
 
 #### [What are Stablecoins - Investopedia](https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold)
 
+
+## Consensus Mechanisms
+
+#### [Consensus Mechanisms Overview - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+
+#### [Nodes and Clients - Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+
+#### [Proof of Work - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+
+#### [Proof of Stake - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+
+#### [Proof of Authority - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/poa/)
+
 ## Smart Contracts
+
+#### [Smart Contracts - Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
 
 #### [What are Smart Contracts - IBM](https://www.ibm.com/topics/smart-contracts)
 
@@ -65,6 +120,8 @@
 
 ## Use Cases
 ### dApps
+
+#### [Intro to dApps - Ethereum](https://ethereum.org/en/developers/docs/dapps/)
 
 #### [dApps - Investopedia](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
 
@@ -81,6 +138,8 @@
 
 
 ## Web 3.0
+
+#### [Web 2 v Web 3 - Ethereum](https://ethereum.org/en/developers/docs/web2-vs-web3/)
 
 #### [Web3 - Coinmarketcap](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
 

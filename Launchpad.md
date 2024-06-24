@@ -2,6 +2,10 @@
 
 ## Blockchain
 
+The blockchain is a decentralized and distributed ledger that securely records transactions across a network of computers. When a transaction occurs, it is validated by every computer, or node on the network.
+
+#### [Blockchain Visual Guide - Reuters](https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html)
+
 #### [Blockchain Facts - Investopedia](https://www.investopedia.com/terms/b/blockchain.asp)
 
 #### [What is a Blockchain - IBM](https://www.ibm.com/topics/what-is-blockchain)

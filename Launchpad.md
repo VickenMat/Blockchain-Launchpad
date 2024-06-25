@@ -2,17 +2,24 @@
 
 ## Blockchain
 
-The blockchain is a decentralized, distributed, and immutable database that maintains a continuously growing list of records and transactions across a network of computers. These transactions are chronologically stored in digital "blocks" and cyrptographically chained together through the block's hash (digital fingerprint). Each block contains a hash of the previous block's hash, timestamp, transaction data, and nonce. The ledger is distributed and copies exist and are simultaneosly updated with every fully participating node in the ecosystem. 
-
-A blockchain is a decentralized ledger of all transactions across a peer to peer network.
+The blockchain is a decentralized, distributed, and immutable database, or ledger, that maintains a continuously growing list of records and transactions across a network of computers.
 
 At a [high level](https://mitsloan.mit.edu/ideas-made-to-matter/blockchain-explained), blockchains allow a network of computers to agree at regular intervals on the true state of a distributed ledger. These ledgers can contain any type of data such as currency, digital rights, intellectual property, and identity or property titles. The ledger is secured through cryptography and game theory, and does not require trusted nodes like traditional networks. 
 
-Shared ledgers are an "append only" distributed system of records shared between the nodes of a given blockchain network. 
+### Characteristics
 
+- [Distributed](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp) ledger technology (DLT) states that all network participants have access to the ledger and its record of transactions. Transactions are recorded once and shared across the network
+- [Immutability](https://www.ledger.com/academy/glossary/immutable) refers to no participant being able to change or tamper with a transaction after it has been recorded in the ledger. If a transaction includes an error, a new transaction must be added to reverse it
+- In a [decentralized](https://www.lcx.com/what-is-decentralization-in-blockchain/) ecosystem, control over the network (authority and decision-making) is equally distributed amongst all participant, elmininating the need for a central authority(individual or organizaton). This distribution of control enhances transparency and fairness while making it resistent to censorship and external manipulation
 
+### How it works
 
-When a transaction occurs, it is validated by every computer, or node on the network.
+When [transactions](https://ethereum.org/en/developers/docs/transactions/) on a network occur, they are chronologically stored in digital structures called [blocks](https://ethereum.org/en/developers/docs/blocks/) and cryptographically chained together through linking the block's unique [hash](https://www.scalingparrots.com/en/blockchain-hash-what-is-it/) (digital fingerprint) with the previous one. This chain of blocks is shared across the network and copies exist and are simultaneosly updated with every fully participating [node](https://ethereum.org/en/developers/docs/nodes-and-clients/) in the ecosystem. Each individual block contains the previous block's hash, timestamp, transaction data, and nonce.
+
+#### [Accounts - Ethereum](https://ethereum.org/en/developers/docs/accounts/)
+
+#### [Gas and Fees - Ethereum](https://ethereum.org/en/developers/docs/gas/)
+
 
 #### [Blockchain Visual Guide - Reuters](https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html)
 
@@ -24,29 +31,15 @@ When a transaction occurs, it is validated by every computer, or node on the net
 
 #### [Understanding Blockchain Technology - BuiltIn](https://builtin.com/blockchain)
 
-### The Makeup of a Blockchain
-
-#### [Blocks - Ethereum](https://ethereum.org/en/developers/docs/blocks/)
-
-#### [Transactions - Ethereum](https://ethereum.org/en/developers/docs/transactions/)
-
-#### [Accounts - Ethereum](https://ethereum.org/en/developers/docs/accounts/)
-
-#### [Gas and Fees - Ethereum](https://ethereum.org/en/developers/docs/gas/)
-
 ### Consensus Mechanisms
 
-Through consensus, all parties agree to the network-verified transaction. 
+Traditional financial institutions rely on central authorities to protect their data and keep systems runnings. To achieve consensus in a decentralized system, protocols and incentives are put in place enabling a network of nodes to agree on transactions and the state of the blockchain, creating a governance approach that keeps it secure and functional. This allows all parties agree on the definition of network-verified transactions. [Consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/) are the foundation of many cryptocurrencies, yet there are multiple approaches.
 
-#### [Consensus Mechanisms Overview - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+#### [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
 
-#### [Nodes and Clients - Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+#### [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 
-#### [Proof of Work - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-
-#### [Proof of Stake - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-
-#### [Proof of Authority - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/poa/)
+#### [Proof of Authority](https://ethereum.org/en/developers/docs/consensus-mechanisms/poa/)
 
 
 #### Video [Blockchain Tutorial - SimpliLearn](https://www.simplilearn.com/tutorials/blockchain-tutorial)

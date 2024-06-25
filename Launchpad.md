@@ -2,9 +2,21 @@
 
 ## Blockchain
 
-The blockchain is a decentralized and distributed ledger that securely records transactions across a network of computers. When a transaction occurs, it is validated by every computer, or node on the network.
+The blockchain is a decentralized, distributed, and immutable database that maintains a continuously growing list of records and transactions across a network of computers. These transactions are chronologically stored in digital "blocks" and cyrptographically chained together through the block's hash (digital fingerprint). Each block contains a hash of the previous block's hash, timestamp, transaction data, and nonce. The ledger is distributed and copies exist and are simultaneosly updated with every fully participating node in the ecosystem. 
+
+A blockchain is a decentralized ledger of all transactions across a peer to peer network.
+
+At a [high level](https://mitsloan.mit.edu/ideas-made-to-matter/blockchain-explained), blockchains allow a network of computers to agree at regular intervals on the true state of a distributed ledger. These ledgers can contain any type of data such as currency, digital rights, intellectual property, and identity or property titles. The ledger is secured through cryptography and game theory, and does not require trusted nodes like traditional networks. 
+
+Shared ledgers are an "append only" distributed system of records shared between the nodes of a given blockchain network. 
+
+
+
+When a transaction occurs, it is validated by every computer, or node on the network.
 
 #### [Blockchain Visual Guide - Reuters](https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html)
+
+#### [Making Sense of Bitcoin and the Blockchain](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html)
 
 #### [Blockchain Facts - Investopedia](https://www.investopedia.com/terms/b/blockchain.asp)
 
@@ -22,6 +34,20 @@ The blockchain is a decentralized and distributed ledger that securely records t
 
 #### [Gas and Fees - Ethereum](https://ethereum.org/en/developers/docs/gas/)
 
+### Consensus Mechanisms
+
+Through consensus, all parties agree to the network-verified transaction. 
+
+#### [Consensus Mechanisms Overview - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+
+#### [Nodes and Clients - Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+
+#### [Proof of Work - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+
+#### [Proof of Stake - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+
+#### [Proof of Authority - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/poa/)
+
 
 #### Video [Blockchain Tutorial - SimpliLearn](https://www.simplilearn.com/tutorials/blockchain-tutorial)
 
@@ -32,6 +58,8 @@ The blockchain is a decentralized and distributed ledger that securely records t
 #### Projects [Blockchain Projects w/ Source Code - InterviewBit](https://www.interviewbit.com/blog/blockchain-projects/)
 
 ## Layer 1
+
+A cryptocurrency is a digital medium of exchange, created and stored on the blockchain using cryptography to verify the transfer of funds and creation of monetary units. They do not have any intrinsic value, no physical form, and suppy is determined by the protocol
 
 ### Bitcoin
 
@@ -100,18 +128,6 @@ The blockchain is a decentralized and distributed ledger that securely records t
 #### [What are Stablecoins - Investopedia](https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold)
 
 
-## Consensus Mechanisms
-
-#### [Consensus Mechanisms Overview - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
-
-#### [Nodes and Clients - Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/)
-
-#### [Proof of Work - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-
-#### [Proof of Stake - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-
-#### [Proof of Authority - Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/poa/)
-
 ## Smart Contracts
 
 #### [Smart Contracts - Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
@@ -123,6 +139,9 @@ The blockchain is a decentralized and distributed ledger that securely records t
 #### [Intro to Smart Contracts and their Limitations - Harvard Law](https://corpgov.law.harvard.edu/2018/05/26/an-introduction-to-smart-contracts-and-their-potential-and-inherent-limitations/)
 
 ## Use Cases
+
+Blockchains have the capacity to disrupt any industry, some being central banks, finance, money transfer, micropayments, identity, privacy, IoT, robotics, artificial intelligence, ownership and many more
+
 ### dApps
 
 #### [Intro to dApps - Ethereum](https://ethereum.org/en/developers/docs/dapps/)

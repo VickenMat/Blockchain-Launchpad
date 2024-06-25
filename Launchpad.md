@@ -51,7 +51,7 @@ If you're looking for project ideas, visit [Blockchain Projects w/ Source Code -
 
 A cryptocurrency is a digital medium of exchange, created and stored on the blockchain using cryptography to verify the transfer of funds and creation of monetary units. They do not have any intrinsic value, no physical form, and suppy is determined by the protocol
 
-[Layer 1](https://www.lcx.com/layer-1-blockchain-explained/) refers to the most fundamental blockchain protocol that serves as the network's foundation. It is essential a distributed ledger designed to securely record transactions on a public, immutable, and trustless ledger. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1 and therefore serves as the source of truth. 
+[Layer 1](https://www.lcx.com/layer-1-blockchain-explained/) refers to the most fundamental blockchain protocol that serves as a network's foundation which is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1 and therefore serves as the source of truth. 
 
 ### Bitcoin
 
@@ -77,7 +77,7 @@ A cryptocurrency is a digital medium of exchange, created and stored on the bloc
 
 ### [BTC/ETH Game Theory - Medium](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
 
-### Token Standards
+### Ethereum Token Standards
 
 #### [ERC-20 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 
@@ -170,5 +170,17 @@ Blockchains have the capacity to disrupt any industry, some being central banks,
 
 
 ## Books
+
+## Cryptocurrencies
+
+
+### Risks
+
+There are [risks](https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto) associated with investing in cryptocurrency as we are still in the early adoption phases
+
+- Volatility - The price of crypto has shown to be extremely volatile, showing high highs and low lows
+- Regulatory Uncertainties - Government regulations around the world are constantly evolving and differ from country to country. Regulations may impact how you use or access your crypto, which leads to price volatility. It will take time for policymakers to establish clear and consistent guidelines as the blockchain space is still new
+- Securities and Scams - Some exchange and Web 3 platforms are more secure than others and newer coins could be at a higher scam risk than mor eestablished ones. There is no protection loss or insurance for lost or stolen cryptocurrency.
+- Storage - The two primary ways to store your crypto are on non-custodial wallets on personal devices(hot wallet) or using a third party cold storage wallet. Due to the nature of blockchains, you are soley responsible for the safety and security of your crypto. If you lose your private keys or a virus corrupts your wallet, you may lose your funds.
 
 

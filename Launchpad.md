@@ -2,11 +2,11 @@
 
 ## Blockchain
 
-
-
 A [blockchain](https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html) is a decentralized, distributed, and immutable database, or ledger, that maintains a continuously growing list of records and transactions across a network of computers.
 
 At a [high level](https://mitsloan.mit.edu/ideas-made-to-matter/blockchain-explained), blockchains allow a network of computers to agree at regular intervals on the true state of a distributed ledger. These ledgers can contain any type of data such as currency, digital rights, intellectual property, and identity or property titles. The ledger is secured through cryptography and game theory, and does not require trusted nodes like traditional networks. 
+
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20221111160733/Structureofblocksinblockchain.png)
 
 ### Characteristics
 
@@ -43,7 +43,7 @@ Traditional financial institutions rely on central authorities to protect their 
 
 #### [Proof of Time Elapsed](https://medium.com/unicorn-ultra/what-is-proof-of-elapsed-time-poet-unlocking-the-secrets-of-proof-of-elapsed-time-poet-0bb7dd1b614e)
 
-Useful articles - [Making Sense of Bitcoin and the Blockchain](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html), [Blockchain Facts](https://www.investopedia.com/terms/b/blockchain.asp), [What is a Blockchain](https://www.ibm.com/topics/what-is-blockchain), and [Understanding Blockchain Technology](https://builtin.com/blockchain)
+Useful articles - [Making Sense of Bitcoin and the Blockchain](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html), [Blockchain Facts](https://www.investopedia.com/terms/b/blockchain.asp), [What is a Blockchain](https://www.ibm.com/topics/what-is-blockchain), [Understanding Blockchain Technology](https://builtin.com/blockchain), and [Bitcoin Explained](https://www.lopp.net/bitcoin-information/bitcoin-explained.html)
 
 Useful videos - [Blockchain Tutorial](https://www.simplilearn.com/tutorials/blockchain-tutorial), [Foundations of Blockchain](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA), and [Blockchain & Money](https://youtu.be/EH6vE97qIP4)
 
@@ -52,6 +52,8 @@ If you're looking for project ideas, visit [Blockchain Projects w/ Source Code -
 ***
 
 ## Cryptocurrencies
+
+A cryptocurrency is a digital, encrypted, and decentralized medium of exchange that runs on the blockchain. Unlike the U.S. dollar, there is no central authority like the government that manages or maintains the value of it. Instead, these tasks are disributed among the nodes via the Internet. To use a cryptocurrency, you need a wallet, which is a cloud based-service stored on your device intended to store your encryption keys that confirm your identity and link to your crypto.
 
 ### Benefits
 
@@ -88,6 +90,8 @@ Key Features
 - Smart Contracts : Various blockchains such as Ethereum support the execution of smart contracts, which are self-executing contracts with the terms of agreement directly written in the code
 
 ### Bitcoin (BTC)
+
+![image](https://www.investopedia.com/thmb/dERboL3dYS7NCsTY5NgB6b8thIQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Blockchain_Sep_2020-01-60f31a638c4944abbcfde92e1a408a30.jpg)
 
 [Bitcoin](https://bitcoin.org/en/), is a peer-to-peer cryptocurrency, meaning that all transactions happen between equal, independent network participants without the need for intermediaries. Bitcoin was created to allow "online payments to be sent directly from one part to another without going through a financial institution" and is designed for value transfer. It is the the first and most well-known blockchain and utilizes the Proof of Work (PoW) consensus mechanism. Bitcoin employs various techniques that are now common such as [mining](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/) and the [Bitcoin Halving](https://www.investopedia.com/bitcoin-halving-4843769).
 
@@ -186,7 +190,7 @@ Oracles act a bridge between blockchains and external systems
 
 ### Chainlink (LINK)
 
-[Chainlink](https://chain.link/) is a decentralized blockchain [oracle](https://chain.link/education/blockchain-oracles) network built on Ethereum. It is used to facilitate the transfer of tamper-proof data from off-chain sources to on-chain smart contracts. It's [importance](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283) cannot go understated as it supplies a stream of real world data to all smart contracts that need it. The [use cases](https://chain.link/use-cases). 
+[Chainlink](https://chain.link/) is a decentralized blockchain [oracle](https://chain.link/education/blockchain-oracles) network built on Ethereum. It is used to facilitate the transfer of tamper-proof data from off-chain sources to on-chain smart contracts. It's [importance](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283) cannot go understated as it supplies a stream of real world data to all smart contracts that need it. The [use cases](https://blog.chain.link/smart-contract-use-cases/) extend to DeFi, Chross-Chain Interoperability Protocol (CCIP), Verifiable Random Function (VRF), Proof of Reserve (PoR), Automation and much more. 
 
 ### Pyth Network (PYTH)
 
@@ -209,6 +213,8 @@ Oracles act a bridge between blockchains and external systems
 ***
 
 ## Smart Contracts
+
+![image](https://originstamp.com/blog/what-is-ethereum-and-what-are-its-use-cases/smart-contracts.png)
 
 #### [Smart Contracts - Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
 

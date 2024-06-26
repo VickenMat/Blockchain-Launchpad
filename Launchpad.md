@@ -2,6 +2,8 @@
 
 ## Blockchain
 
+
+
 A [blockchain](https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html) is a decentralized, distributed, and immutable database, or ledger, that maintains a continuously growing list of records and transactions across a network of computers.
 
 At a [high level](https://mitsloan.mit.edu/ideas-made-to-matter/blockchain-explained), blockchains allow a network of computers to agree at regular intervals on the true state of a distributed ledger. These ledgers can contain any type of data such as currency, digital rights, intellectual property, and identity or property titles. The ledger is secured through cryptography and game theory, and does not require trusted nodes like traditional networks. 
@@ -47,11 +49,36 @@ Useful videos - [Blockchain Tutorial](https://www.simplilearn.com/tutorials/bloc
 
 If you're looking for project ideas, visit [Blockchain Projects w/ Source Code - InterviewBit](https://www.interviewbit.com/blog/blockchain-projects/)
 
-## Layer 1
+***
+
+## Cryptocurrencies
+
+### Benefits
+
+Cryptocurrencies offer several benefits in comparison to the traditional financial system
+
+- Independence - Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
+- Accessibility - Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
+- Lower fees - Lower fees than bank transactions, especially compared to global wire transfers
+- Faster times - Receive and send crypto withing minutes as opposed to the 24-48 hour (not including weekends) transfer time
+- Transparency - The blockchain is fully public and immutable, meaning it cannot be manipulated or deleted. Every transaction can be seen or tracked at any time
+- High return potential - Due to its high volatility, they yields a user can make can outdo traditional investments
+
+### Risks
+
+There are [risks](https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto) associated with investing in cryptocurrency as we are still in the early adoption phases
+
+- Volatility - The price of crypto has shown to be extremely volatile, showing high highs and low lows
+- Regulatory Uncertainties - Government regulations around the world are constantly evolving and differ from country to country. Regulations may impact how you use or access your crypto, which leads to price volatility. It will take time for policymakers to establish clear and consistent guidelines as the blockchain space is still new
+- Securities and Scams - Some exchange and Web 3 platforms are more secure than others and newer coins could be at a higher scam risk than mor eestablished ones. There is no protection loss or insurance for lost or stolen cryptocurrency.
+- Storage - The two primary ways to store your crypto are on non-custodial wallets on personal devices(hot wallet) or using a third party cold storage wallet. Due to the nature of blockchains, you are soley responsible for the safety and security of your crypto. If you lose your private keys or a virus corrupts your wallet, you may lose your funds.
+
+
+## Layer-1
 
 A cryptocurrency is a digital medium of exchange, created and stored on the blockchain using cryptography to verify the transfer of funds and creation of monetary units. They do not have any intrinsic value, no physical form, and suppy is determined by the protocol
 
-[Layer 1](https://www.lcx.com/layer-1-blockchain-explained/) refers to the most fundamental blockchain protocol that serves as a network's foundation which is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1 and therefore serves as the source of truth. 
+[Layer-1](https://www.lcx.com/layer-1-blockchain-explained/) refers to the most fundamental blockchain protocol that serves as a network's foundation which is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1 and therefore serves as the source of truth. 
 
 ### Bitcoin
 
@@ -86,25 +113,30 @@ A cryptocurrency is a digital medium of exchange, created and stored on the bloc
 #### [ERC-1155 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 
 
-## Layer 2
+## Layer-2
 
-### Scaling a Blockchain
+As blockchains such as Bitcoin and Ethereum grow in popularity, difficulties in processing transactions quickly and efficiently due to limitations in throughput lead to higher fees and longer confirmation times. Innovations such as Layer-2s are being developed to address these challenges, aiming to enhance the networks capacity to support a larger scale of users without compromising decentralization or security.
 
-#### [Scaling - Ethereum](https://ethereum.org/en/developers/docs/scaling/)
+### Blockchain Trilemma
 
-#### [Optimistic Rollups - Ethereum](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)
+The blockchain trilmma is a concept that refers to the trade off between three key properties of a blockchain, decentralization, scalability, and security. Achieving all three properties simultaneously is difficult, and improving one often comes at the expense of others.
 
-#### [Zero Knowledge Rollups - Ethereum](https://ethereum.org/en/developers/docs/scaling/zk-rollups/)
+- ### [Decentralization](https://www.blockchain-council.org/blockchain/what-is-decentralization-in-blockchain/)
 
-#### [State Channels - Ethereum](https://ethereum.org/en/developers/docs/scaling/state-channels/)
+The degree to which the network is distributed and not controlled by a single entity. Decentralization is on a spectrum rather than a simple "yes" or "no" and each network has its own degree of decentralization. Increasing decentralization can lead to slower TPS and higher resource requirements for nodes, making it harder to scale
 
-#### [Sidechains - Ethereum](https://ethereum.org/en/developers/docs/scaling/sidechains)
+- ### [Security](https://www.ibm.com/topics/blockchain-security)
 
-#### [Plasma - Ethereum](https://ethereum.org/en/developers/docs/scaling/plasma)
+A secure blockchain ensures the integrity and safety of the data it holds, making it difficult for malicious entities to manipulate it. A blockchain system is vulnerable to multiple attacks such as double spending, sybil, DDoS, and 51% attacks. The more participants in the network, the harder it is for these attacks to be successful. In PoW, each block is interconnected in a tamper-resistent manner and any alterations to the data would be quickly spotted by the network.
 
-#### [Validium - Ethereum](https://ethereum.org/en/developers/docs/scaling/validium/)
+- ### [Scalability](https://ethereum.org/en/developers/docs/scaling/)
 
-### Oracles
+Capacity of a blockchain network to handle an increasing volume of users and transactions per second (TPS) without compromising speed or fees. On the blockchain, each transaction has “weight”, and the more data that’s added, the heavier and slower it is to move around. Imagine every time a transaction is submitted, the data had to wait in traffic for it to be validated. The more people transacting means the more the network validation process needs to happen, which creates a jam on an unscalable network. In PoW, the algorith will automatically alter the level of difficulty according the the available hash power and the network may support any number of nodes. [Scalability](https://shardeum.org/blog/what-is-blockchain-scalability/) is essential for widespread adoption and practical use of the network. and currently, Bitcoin can manage 7 TPS as opposed to Visa's 24,000. 
+
+A variety of methods and techniques called Layer-2s have been employed in an effort to increase blockchain scalability such as [Optimistic Rollups](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/), [Zero Knowledge Rollups](https://ethereum.org/en/developers/docs/scaling/zk-rollups/), [State Channels](https://ethereum.org/en/developers/docs/scaling/state-channels/), [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains), [Plasma](https://ethereum.org/en/developers/docs/scaling/plasma), and [Validium](https://ethereum.org/en/developers/docs/scaling/validium/)
+
+
+## Oracles
 
 #### [Oracles - Ethereum](https://ethereum.org/en/developers/docs/oracles/)
 
@@ -119,6 +151,7 @@ A cryptocurrency is a digital medium of exchange, created and stored on the bloc
 
 #### [What are Stablecoins - Investopedia](https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold)
 
+***
 
 ## Smart Contracts
 
@@ -129,6 +162,8 @@ A cryptocurrency is a digital medium of exchange, created and stored on the bloc
 #### [Smart Contracts Explained - BitDegree](https://www.bitdegree.org/crypto/tutorials/what-is-a-smart-contract)
 
 #### [Intro to Smart Contracts and their Limitations - Harvard Law](https://corpgov.law.harvard.edu/2018/05/26/an-introduction-to-smart-contracts-and-their-potential-and-inherent-limitations/)
+
+***
 
 ## Use Cases
 
@@ -160,37 +195,14 @@ Blockchains have the capacity to disrupt any industry, some being central banks,
 
 #### [What is Web3 - NYTimes](https://www.nytimes.com/interactive/2022/03/18/technology/web3-definition-internet.html)
 
+***
+
 ## Storage
 
 #### [Hot v Cold Storage - InvestorJunkie](https://investorjunkie.com/crypto/hot-wallet-vs-cold-wallet/)
 
-## Blockchain Trilemma
-
-### Decentralization
-
 
 ## Books
 
-## Cryptocurrencies
-
-### Benefits
-
-Cryptocurrencies offer several benefits in comparison to the traditional financial system
-
-- Independence - Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
-- Accessibility - Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
-- Lower fees - Lower fees than bank transactions, especially compared to global wire transfers
-- Faster times - Receive and send crypto withing minutes as opposed to the 24-48 hour (not including weekends) transfer time
-- Transparency - The blockchain is fully public and immutable, meaning it cannot be manipulated or deleted. Every transaction can be seen or tracked at any time
-- High return potential - Due to its high volatility, they yields a user can make can outdo traditional investments
-
-### Risks
-
-There are [risks](https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto) associated with investing in cryptocurrency as we are still in the early adoption phases
-
-- Volatility - The price of crypto has shown to be extremely volatile, showing high highs and low lows
-- Regulatory Uncertainties - Government regulations around the world are constantly evolving and differ from country to country. Regulations may impact how you use or access your crypto, which leads to price volatility. It will take time for policymakers to establish clear and consistent guidelines as the blockchain space is still new
-- Securities and Scams - Some exchange and Web 3 platforms are more secure than others and newer coins could be at a higher scam risk than mor eestablished ones. There is no protection loss or insurance for lost or stolen cryptocurrency.
-- Storage - The two primary ways to store your crypto are on non-custodial wallets on personal devices(hot wallet) or using a third party cold storage wallet. Due to the nature of blockchains, you are soley responsible for the safety and security of your crypto. If you lose your private keys or a virus corrupts your wallet, you may lose your funds.
 
 

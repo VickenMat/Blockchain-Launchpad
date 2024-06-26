@@ -78,7 +78,7 @@ There are [risks](https://www.fidelity.com/learning-center/trading-investing/cry
 
 A cryptocurrency is a digital medium of exchange, created and stored on the blockchain using cryptography to verify the transfer of funds and creation of monetary units. They do not have any intrinsic value, no physical form, and suppy is determined by the protocol
 
-[Layer-1](https://www.lcx.com/layer-1-blockchain-explained/) blockchain refers to the protocol that serves as a [network's - Ethereum](https://ethereum.org/en/developers/docs/networks/) foundation. It is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1s and therefore serves as the source of truth. 
+[Layer-1](https://www.lcx.com/layer-1-blockchain-explained/) blockchain refers to the protocol that serves as a [network's](https://ethereum.org/en/developers/docs/networks/) foundation. It is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1s and therefore serves as the source of truth. 
 
 Key Features
 
@@ -154,13 +154,17 @@ A variety of methods and techniques called Layer-2s have been employed in an eff
 ### Polygon (MATIC)
 
 
+
 ### Arbitrum (ARB)
+
 
 
 ### Immutable X (IMX)
 
 
+
 ### Optimism (OP)
+
 
 
 ### zkSync (ZK)
@@ -168,17 +172,21 @@ A variety of methods and techniques called Layer-2s have been employed in an eff
 
 
 
-
-
 ## Oracles
 
-#### [Oracles - Ethereum](https://ethereum.org/en/developers/docs/oracles/)
+[Oracles](https://ethereum.org/en/developers/docs/oracles/) are applications that source, verify, and transmit off-chain data to smart contracts running on the blockchain. They provide a way for Web3 ecosystems to access existing data sources, legacy systems, and advanced computations, extending the utility and value of dApps. 
+
+For example, let’s assume Alice and Bob want to bet on the outcome of a sports match. Alice bets $20 on team A and Bob bets $20 on team B, with the $40 total held in escrow by a smart contract. When the game ends, how does the smart contract know whether to release the funds to Alice or Bob? The answer is it requires an oracle mechanism to fetch accurate match outcomes offchain and deliver it to the blockchain in a secure and reliable manner.
+
+![Problem](https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/65672cc162d319d711995419_wGf9Q3OEnxQINTT9nDXdMTM6VxwH2N0sp0OlreIrn5mhiB5HO_ElhUpOGMIfhaoyF-On930br6VyWhNHsEl999YxMwBO1I7PmEDoDeaQnGw-Hf1nvAWzso8XJW-OUjG3M1LVijtz9HPkXIDLkoRp94Q.jpeg)
+By default, Ethereum based smart contracts cannot access information stored outside the blockchain network
+
+![image](https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/65672cc1d35b5ee20cdfd250_k5eK0BYEazoyssAp_SjmzvQ30GAPnyH6cCf8zvrKQGPkfp36HjYg-EP21x_H8EqKHLZC8Vzrr477MkSaQo6Ev6drkcGZUsojPSrTZ2GUL_Ga4RQCMYFKBXaEtoyeaMipWfTWA365VeRbImjdD0Scanw.png)
+Oracles act a bridge between blockchains and external systems
 
 ### Chainlink (LINK)
 
-### [Chainlink and Blockchain - Hackernoon](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283)
-
-#### [Chainlink Use Cases](https://blog.chain.link/smart-contract-use-cases/)
+[Chainlink](https://chain.link/) is a decentralized blockchain [oracle](https://chain.link/education/blockchain-oracles) network built on Ethereum. It is used to facilitate the transfer of tamper-proof data from off-chain sources to on-chain smart contracts. It's [importance](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283) cannot go understated as it supplies a stream of real world data to all smart contracts that need it. The [use cases](https://chain.link/use-cases). 
 
 ### Pyth Network (PYTH)
 

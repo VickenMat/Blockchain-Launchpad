@@ -78,7 +78,7 @@ There are [risks](https://www.fidelity.com/learning-center/trading-investing/cry
 
 A cryptocurrency is a digital medium of exchange, created and stored on the blockchain using cryptography to verify the transfer of funds and creation of monetary units. They do not have any intrinsic value, no physical form, and suppy is determined by the protocol
 
-[Layer-1](https://www.lcx.com/layer-1-blockchain-explained/) blockchain refers to the protocol that serves as a network's foundation. It is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1s and therefore serves as the source of truth. 
+[Layer-1](https://www.lcx.com/layer-1-blockchain-explained/) blockchain refers to the protocol that serves as a [network's - Ethereum](https://ethereum.org/en/developers/docs/networks/) foundation. It is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1s and therefore serves as the source of truth. 
 
 Key Features
 
@@ -89,29 +89,15 @@ Key Features
 
 ### Bitcoin (BTC)
 
-[Bitcoin](https://bitcoin.org/en/), is a peer-to-peer cryptocurrency, meaning that all transactions happen between equal, independent network participants without the need for intermediaries. Bitcoin was created to allow "online payments to be sent directly from one part to another without going through a financial institution" and is designed for value transfer. It is the the first and most well-known blockchain and utilizes the Proof of Work (PoW) consensus mechanism.
+[Bitcoin](https://bitcoin.org/en/), is a peer-to-peer cryptocurrency, meaning that all transactions happen between equal, independent network participants without the need for intermediaries. Bitcoin was created to allow "online payments to be sent directly from one part to another without going through a financial institution" and is designed for value transfer. It is the the first and most well-known blockchain and utilizes the Proof of Work (PoW) consensus mechanism. Bitcoin employs various techniques that are now common such as [mining](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/) and the [Bitcoin Halving](https://www.investopedia.com/bitcoin-halving-4843769).
 
 #### [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
-#### [Bitcoin Mining - Investopedia](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
-
-#### [Bitcoin Halving - Investopedia](https://www.investopedia.com/bitcoin-halving-4843769)
-
-#### [Proof of Work]()
-
 ### Ethereum (ETH)
 
-[Ethereum](https://ethereum.org/en/) is an open-source blockchain renowned for its ability to create smart contracts and be a platform for decentralized applications. It introduced the idea of programmable money, revolutionizing the blockchain landscape. It employs a Proof of Work (PoW) consensus mechanism , although it is transitioning to Proof of Stake (PoS) in Ethereum 2.0.
+[Ethereum](https://ethereum.org/en/) is an open-source blockchain renowned for its ability to create smart contracts and be a platform for decentralized applications. It introduced the idea of programmable money, revolutionizing the blockchain landscape. It employs a Proof of Work (PoW) consensus mechanism , although it is transitioning to Proof of Stake (PoS) in Ethereum 2.0. Additional information on Ethereum can be found at [Intro to Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/) and [Intro to Ether](https://ethereum.org/en/developers/docs/intro-to-ether/)
 
 #### [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
-
-#### [Intro to Ethereum - Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
-
-#### [Intro to Ether - Ethereum](https://ethereum.org/en/developers/docs/intro-to-ether/)
-
-#### [Networks - Ethereum](https://ethereum.org/en/developers/docs/networks/)
-
-#### [What is Ethereum - Investopedia](https://www.investopedia.com/terms/e/ethereum.asp)
 
 ### [BTC/ETH Game Theory - Medium](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
 

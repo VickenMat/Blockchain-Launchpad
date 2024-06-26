@@ -57,30 +57,39 @@ If you're looking for project ideas, visit [Blockchain Projects w/ Source Code -
 
 Cryptocurrencies offer several benefits in comparison to the traditional financial system
 
-- Independence - Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
-- Accessibility - Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
-- Lower fees - Lower fees than bank transactions, especially compared to global wire transfers
-- Faster times - Receive and send crypto withing minutes as opposed to the 24-48 hour (not including weekends) transfer time
-- Transparency - The blockchain is fully public and immutable, meaning it cannot be manipulated or deleted. Every transaction can be seen or tracked at any time
-- High return potential - Due to its high volatility, they yields a user can make can outdo traditional investments
+- Independence : Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
+- Accessibility : Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
+- Lower fees : Lower fees than bank transactions, especially compared to global wire transfers
+- Faster times : Receive and send crypto withing minutes as opposed to the 24-48 hour (not including weekends) transfer time
+- Transparency : The blockchain is fully public and immutable, meaning it cannot be manipulated or deleted. Every transaction can be seen or tracked at any time
+- High return potential : Due to its high volatility, they yields a user can make can outdo traditional investments
 
 ### Risks
 
 There are [risks](https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto) associated with investing in cryptocurrency as we are still in the early adoption phases
 
-- Volatility - The price of crypto has shown to be extremely volatile, showing high highs and low lows
-- Regulatory Uncertainties - Government regulations around the world are constantly evolving and differ from country to country. Regulations may impact how you use or access your crypto, which leads to price volatility. It will take time for policymakers to establish clear and consistent guidelines as the blockchain space is still new
-- Securities and Scams - Some exchange and Web 3 platforms are more secure than others and newer coins could be at a higher scam risk than mor eestablished ones. There is no protection loss or insurance for lost or stolen cryptocurrency.
-- Storage - The two primary ways to store your crypto are on non-custodial wallets on personal devices(hot wallet) or using a third party cold storage wallet. Due to the nature of blockchains, you are soley responsible for the safety and security of your crypto. If you lose your private keys or a virus corrupts your wallet, you may lose your funds.
+- Volatility : The price of crypto has shown to be extremely volatile, showing high highs and low lows
+- Regulatory Uncertainties : Government regulations around the world are constantly evolving and differ from country to country. Regulations may impact how you use or access your crypto, which leads to price volatility. It will take time for policymakers to establish clear and consistent guidelines as the blockchain space is still new
+- Securities and Scams : Some exchange and Web 3 platforms are more secure than others and newer coins could be at a higher scam risk than mor eestablished ones. There is no protection loss or insurance for lost or stolen cryptocurrency.
+- Storage : The two primary ways to store your crypto are on non-custodial wallets on personal devices(hot wallet) or using a third party cold storage wallet. Due to the nature of blockchains, you are soley responsible for the safety and security of your crypto. If you lose your private keys or a virus corrupts your wallet, you may lose your funds.
 
 
 ## Layer-1
 
 A cryptocurrency is a digital medium of exchange, created and stored on the blockchain using cryptography to verify the transfer of funds and creation of monetary units. They do not have any intrinsic value, no physical form, and suppy is determined by the protocol
 
-[Layer-1](https://www.lcx.com/layer-1-blockchain-explained/) refers to the most fundamental blockchain protocol that serves as a network's foundation which is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1 and therefore serves as the source of truth. 
+[Layer-1](https://www.lcx.com/layer-1-blockchain-explained/) blockchain refers to the protocol that serves as a network's foundation. It is a distributed ledger designed to securely record transactions on a public, immutable, and trustless database. They are the foundation because it provides the infrastructure for all applications and protocols developed on top of the network. It's primary responsibilities are maintaining the distributed ledger, validating transactions, and protecting the network from threats. All on-chain transactions are executed on layer-1s and therefore serves as the source of truth. 
 
-### Bitcoin
+Key Features
+
+- Consensus Mechanism : Layer-1s employ various consensus mechanisms to validate transactions and achieve agreement between all nodes in a network as seen above
+- Security : Utilize cryptographic algorithms (hashing) and decentralized network structures to ensure the immmutability of a blockchain 
+- Scalability : Many blockchains face the issue of scalability as they need to accomodate for a large amount of users
+- Smart Contracts : Various blockchains such as Ethereum support the execution of smart contracts, which are self-executing contracts with the terms of agreement directly written in the code
+
+### Bitcoin (BTC)
+
+[Bitcoin](https://bitcoin.org/en/), is a peer-to-peer cryptocurrency, meaning that all transactions happen between equal, independent network participants without the need for intermediaries. Bitcoin was created to allow "online payments to be sent directly from one part to another without going through a financial institution" and is designed for value transfer. It is the the first and most well-known blockchain and utilizes the Proof of Work (PoW) consensus mechanism.
 
 #### [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
@@ -90,7 +99,9 @@ A cryptocurrency is a digital medium of exchange, created and stored on the bloc
 
 #### [Proof of Work]()
 
-### Ethereum
+### Ethereum (ETH)
+
+[Ethereum](https://ethereum.org/en/) is an open-source blockchain renowned for its ability to create smart contracts and be a platform for decentralized applications. It introduced the idea of programmable money, revolutionizing the blockchain landscape. It employs a Proof of Work (PoW) consensus mechanism , although it is transitioning to Proof of Stake (PoS) in Ethereum 2.0.
 
 #### [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
@@ -112,6 +123,25 @@ A cryptocurrency is a digital medium of exchange, created and stored on the bloc
 
 #### [ERC-1155 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 
+### Polkadot (DOT)
+
+[Polkadot](https://polkadot.network/) is an open-source sharded multichain protocol that focuses on interoperability between different Layer-1 blockchains. It enables the seamless transfer of assets and data across multiple chains while utilizing a unique shared responsibility model and the Nominated Proof of Stake (NPoS) consensus mechanism.
+
+### Solana (SOL)
+
+[Solana](https://solana.com/) aims to resolve the scalability issues of L1 blockchains by employing a Proof of History consensus to achieve TPS of up to 65,000. It is an open-source project capitalizing on the blockchain's permissionless strcuture to provide decentralized finance (DeFi) solutions.
+
+### Avalanche (AVAX)
+
+[Avalance](https://www.avax.network/) is a platform utliziing Proof of Stake (PoS) for dApps and custom blockchain networks. It aims to support a TPS of 6,500 without compromising scalability through the use of its unique tri-chain structure, the X-Chain (Exchange), C-Chain (Contract), and P-Chain (Platform). Each chain has its distinct purpose and all nodes validate all transactions, which is radically different than the approach Bitcoin and Ethereum use. 
+
+### Binance (BNB)
+
+[Binance](https://www.binance.com/en) aims to bring cryptocurrency exchanges to the forefront of financial global activity. Aside from being the largest crypto exchange in the world, Binance has a whole ecosystem of functionalities such as the Binance Chain, Binance Smart Chain, Binance Academy, and Trust Wallet. Binance uses a combination of Proof of Stake (PoS) and Proof of Authority (PoA) to validate network transaction.
+
+### Cardano (ADA)
+
+[Cardano](https://cardano.org/) is a Proof of Stake (PoS) blockchain who's goal is to allow "changemakers, innovators, and visionaries" to bring positive global change. It is an open-source project aiming to "redistribute power from unaccountable structures to the margins to individuals" helping create a more transparent and fair society. Cardano is used for the creation of dApps and smart contracts to be developed with modularity.
 
 ## Layer-2
 
@@ -135,21 +165,52 @@ Capacity of a blockchain network to handle an increasing volume of users and tra
 
 A variety of methods and techniques called Layer-2s have been employed in an effort to increase blockchain scalability such as [Optimistic Rollups](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/), [Zero Knowledge Rollups](https://ethereum.org/en/developers/docs/scaling/zk-rollups/), [State Channels](https://ethereum.org/en/developers/docs/scaling/state-channels/), [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains), [Plasma](https://ethereum.org/en/developers/docs/scaling/plasma), and [Validium](https://ethereum.org/en/developers/docs/scaling/validium/)
 
+### Polygon (MATIC)
+
+
+### Arbitrum (ARB)
+
+
+### Immutable X (IMX)
+
+
+### Optimism (OP)
+
+
+### zkSync (ZK)
+
+
+
+
+
 
 ## Oracles
 
 #### [Oracles - Ethereum](https://ethereum.org/en/developers/docs/oracles/)
 
-### Chainlink
+### Chainlink (LINK)
 
 ### [Chainlink and Blockchain - Hackernoon](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283)
 
 #### [Chainlink Use Cases](https://blog.chain.link/smart-contract-use-cases/)
 
+### Pyth Network (PYTH)
+
+
+### API3 (API3)
+
 
 ## Stablecoins
 
 #### [What are Stablecoins - Investopedia](https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold)
+
+### Tether (USDT)
+
+
+### USDC (USDC)
+
+
+### Dai (DAI)
 
 ***
 

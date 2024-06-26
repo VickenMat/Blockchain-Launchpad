@@ -173,6 +173,16 @@ Blockchains have the capacity to disrupt any industry, some being central banks,
 
 ## Cryptocurrencies
 
+### Benefits
+
+Cryptocurrencies offer several benefits in comparison to the traditional financial system
+
+- Independence - Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
+- Accessibility - Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
+- Lower fees - Lower fees than bank transactions, especially compared to global wire transfers
+- Faster times - Receive and send crypto withing minutes as opposed to the 24-48 hour (not including weekends) transfer time
+- Transparency - The blockchain is fully public and immutable, meaning it cannot be manipulated or deleted. Every transaction can be seen or tracked at any time
+- High return potential - Due to its high volatility, they yields a user can make can outdo traditional investments
 
 ### Risks
 

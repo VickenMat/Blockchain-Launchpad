@@ -200,15 +200,19 @@ Oracles act a bridge between blockchains and external systems
 
 ## Stablecoins
 
-#### [What are Stablecoins - Investopedia](https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold)
+[Stablecoins](https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold) are a type of cryptocurrency that maintains a stable value by pegging their price to another currency or commodity. This makes them different than most other cryptocurrencies which are more volatile and don't have tangible assets backing them. Stablecoins can be used as a medium of exchange similar to a digital dollar becauase their value is designed to not change. There are multiple ways to maintain a stablecoin, one being backing it 1 to 1, meaning there exists 1 dollar in a vault somewhere that I can exchange it for guaranteed. The problem is that there needs to be billions of dollars waiting to be exchanged and if not there remains the risk of not being able to back it should everyone sell. The other method is called an algorithmic stablecoin. The idea is that it's backed by nothing, similar to fiat currency, but uses an cryptographic algorithm of bots who buy, sell, create, and burn tokens to keep the price constant if it rises or falls below a certain level. 
 
 ### Tether (USDT)
 
+[Tether](https://tether.to/en/) is a stablecoin pegged to the U.S. dollar designed to allow the use of fiat currencies in a digital manner. It gives the ability to transact with traditional currencies across the blockchain, without the inherent volatility and complexity associated with a cryptocurrency. USDT does not have its own blockchain but instead operates as a second layeron top of Layer-1s such as Bitcoin or Ethereum.
 
 ### USDC (USDC)
 
+[USDC](https://www.circle.com/en/usdc) is stablecoin backed by the U.S. dollar at a 1:1 ratio. Every unit of this crypto in circulation equates to $1 that is held in reserve, a mix of cash and short term U.S. Treasury Bonds. It provides a safe haven for traders in times of volatility and allows businesses to accept digital asset payments without the fear of price fluctuation.
 
 ### Dai (DAI)
+
+[DAI](https://makerdao.com/en/) is an Ethereum based stablecoin whose issuance and governance is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization (DAO). It's price is soft-pegged to the U.S. dollar and is collateralized by a mix of other cryptocurrencies that are deposited into smart contract vaults every time DAI is minted.
 
 ***
 

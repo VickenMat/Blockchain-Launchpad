@@ -214,6 +214,57 @@ Oracles act a bridge between blockchains and external systems
 
 [DAI](https://makerdao.com/en/) is an Ethereum based stablecoin whose issuance and governance is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization (DAO). It's price is soft-pegged to the U.S. dollar and is collateralized by a mix of other cryptocurrencies that are deposited into smart contract vaults every time DAI is minted.
 
+## Interoperability
+
+
+## Decentralized Finance (DeFi)
+
+#### [DeFi - Investopedia](https://www.investopedia.com/decentralized-finance-defi-5113835)
+
+#### [DeFi Projects - DeFi Prime](https://defiprime.com/)
+
+#### [DeFi Tutorial](https://fastdefitutorial.com/)
+
+
+## Decentralized Physical Infrastructure Networks (DePIN)
+
+
+
+## Entertainment
+
+### Gaming
+
+
+
+### Gambling
+
+
+
+### Non-Fungable Tokens (NFT)
+
+
+
+### Social-Fi
+
+
+
+## Artificial Intelligence (AI)
+
+
+
+## Real World Assets (RWA)
+
+
+
+## Privacy
+
+
+
+## Decentralized Exchanges (DEX)
+
+
+
+
 ***
 
 ## Smart Contracts
@@ -241,15 +292,6 @@ Blockchains have the capacity to disrupt any industry, some being central banks,
 #### [dApps - Investopedia](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
 
 #### [dApps Explained w/ Examples - Hackernoon](https://hackernoon.com/what-are-decentralized-applications-dapps-explained-with-examples-7ff8f2c4a460)
-
-
-### De-Fi
-
-#### [DeFi - Investopedia](https://www.investopedia.com/decentralized-finance-defi-5113835)
-
-#### [DeFi Projects - DeFi Prime](https://defiprime.com/)
-
-#### [DeFi Tutorial](https://fastdefitutorial.com/)
 
 
 ## Web 3.0

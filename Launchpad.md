@@ -157,23 +157,23 @@ A variety of methods and techniques called Layer-2s have been employed in an eff
 
 ### Polygon (MATIC)
 
-
+[Polygon](https://polygon.technology/)
 
 ### Arbitrum (ARB)
 
-
+[Arbitrum](https://arbitrum.io/)
 
 ### Immutable X (IMX)
 
-
+[Immutable X](https://www.immutable.com/)
 
 ### Optimism (OP)
 
-
+[Optimism](https://www.optimism.io/)
 
 ### zkSync (ZK)
 
-
+[zkSync](https://zksync.io/)
 
 
 ## Oracles
@@ -194,9 +194,11 @@ Oracles act a bridge between blockchains and external systems
 
 ### Pyth Network (PYTH)
 
+[Pyth Network](https://pyth.network/)
 
 ### API3 (API3)
 
+[API3](https://api3.org/) 
 
 ## Stablecoins
 
@@ -216,18 +218,80 @@ Oracles act a bridge between blockchains and external systems
 
 ## Interoperability
 
+[Interoperability](https://www.coinbase.com/learn/crypto-glossary/what-is-blockchain-interoperability) refers to the ability of different blockchain networks to communicate and exchange data with each other. It is crucial for the growth and development of the technology as it allows for seamless interaction to and from all blockchains, enabling the exchange of data and assets without the need for intermediaries. Interoperability is necessary for adoption, scale, and innovation.
+
+### Cosmos (ATOM)
+
+[Cosmos](https://cosmos.network/)
+
+### Quant (QNT)
+
+[Quant](https://quant.network/)
+
+### Axelar (AXL)
+
+[Axelar](https://axelar.network/) 
+
+### Darwinia Network (RING)
+
+[Darwinia Network](https://darwinia.network/)
+
 
 ## Decentralized Finance (DeFi)
 
-#### [DeFi - Investopedia](https://www.investopedia.com/decentralized-finance-defi-5113835)
+[Decentralized Finance](https://www.coinbase.com/learn/crypto-basics/what-is-defi) is the term for peer-to-peer financial services on public blockchains. This includes earning interest, borrowing, lending, buying insurance, trade derivatives and assets, etc. The primary benefit of DeFi versus traditional financial systems is that its faster and cheaper because it doesn't require paperwork and third-parties. DeFi takes the basic idea of Bitcoin, digital money, and expands on it by creating and entire digital financial ecosystem without buildings or physical assets.
 
-#### [DeFi Projects - DeFi Prime](https://defiprime.com/)
+There are many DeFi [projects](https://defiprime.com/) used by millions of people today, and you can learn how to interact with them using this [tutorial](https://fastdefitutorial.com/)
 
-#### [DeFi Tutorial](https://fastdefitutorial.com/)
+### Decentralized Exchanges (DEX)
 
+A [decentralized exchange](https://chain.link/education-hub/what-is-decentralized-exchange-dex) is a peer-to-peer marketplace that enable users to trade crypto assets through blockchain transactions without the need for a custodian of centralized authority. Smart contracts facilitate the exchange of the assets and DEXs are the cornerstone of DeFi which allows more sophisticated financial products to be built on top of it.
+
+- ### Uniswap (UNI)
+
+[Uniswap](https://uniswap.org/)
+
+- ### Pancakeswap (CAKE)
+
+[Pancakeswap](https://pancakeswap.finance/)
+
+- ### Trader Joe (JOE)
+
+[Trader Joe](https://traderjoexyz.com/avalanche)
+
+- ### Jupiter (JUP)
+
+[Jupiter](https://station.jup.ag/)
+
+- ### Sushiswap (SUSHI)
+
+[Sushiswap](https://www.sushi.com/swap)
+
+### Lending
+
+[Lending protocols](https://www.theblock.co/learn/245710/what-are-decentralized-lending-protocols) are an application of DeFi in which users can lend and borrow funds directly from each other, bypassing the need for a centralized authoritiy. Users retain full control of their assets at all times through smart contacts which allow for a transparent, immutable, and automated system for lending and borrowing. 
+
+- ### Aave (AAVE)
+
+[Aave](https://aave.com/)
+
+- ### Compound (COMP)
+
+[Compound](https://compound.finance/governance/comp)
+
+- ### Curve (CRV)
+
+[Curve](https://curve.fi/#/ethereum/swap)
+
+- ### Aerodome (AERO)
+
+[Aerodome](https://aerodrome.finance/)
 
 ## Decentralized Physical Infrastructure Networks (DePIN)
 
+### Internet Computer (ICP)
+
+[Internet Computer](https://internetcomputer.org/)
 
 
 ## Entertainment
@@ -259,8 +323,6 @@ Oracles act a bridge between blockchains and external systems
 ## Privacy
 
 
-
-## Decentralized Exchanges (DEX)
 
 
 

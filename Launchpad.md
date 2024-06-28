@@ -231,20 +231,11 @@ Dai is an Ethereum based stablecoin whose issuance and governance is managed by 
 
 ### [Cosmos](https://cosmos.network/) (ATOM)
 
-
-
 ### [Quant](https://quant.network/) (QNT)
-
-
 
 ### [Axelar](https://axelar.network/)  (AXL)
 
-
-
 ### [Darwinia Network](https://darwinia.network/) (RING)
-
-
-
 
 ## Decentralized Finance (DeFi)
 
@@ -254,26 +245,21 @@ There are many DeFi [projects](https://defiprime.com/) used by millions of peopl
 
 ### Decentralized Exchanges (DEX)
 
+![image](https://changelly.com/blog/wp-content/uploads/2020/07/dex-1-770x425.png.webp)
+
 A [decentralized exchange](https://chain.link/education-hub/what-is-decentralized-exchange-dex) is a peer-to-peer marketplace that enable users to trade crypto assets through blockchain transactions without the need for a custodian of centralized authority. Smart contracts facilitate the exchange of the assets and DEXs are the cornerstone of DeFi which allows more sophisticated financial products to be built on top of it.
 
 - ### [Uniswap](https://uniswap.org/) (UNI)
 
-
-
 - ### [Pancakeswap](https://pancakeswap.finance/) (CAKE)
-
-
 
 - ### [Trader Joe](https://traderjoexyz.com/avalanche) (JOE)
 
-
-
 - ### [Jupiter](https://station.jup.ag/) (JUP)
 
-
+- ### [Sundaeswap](https://sundae.fi/) (SUNDAE)
 
 - ### [Sushiswap](https://www.sushi.com/swap) (SUSHI)
-
 
 
 ### Lending
@@ -282,40 +268,63 @@ A [decentralized exchange](https://chain.link/education-hub/what-is-decentralize
 
 - ### [Aave](https://aave.com/) (AAVE)
 
-
-
 - ### [Compound](https://compound.finance/governance/comp) (COMP)
 
-
-
 - ### [Curve](https://curve.fi/#/ethereum/swap) (CRV)
-
-
 
 - ### [Aerodome](https://aerodrome.finance/) (AERO)
 
 
-
 ## Decentralized Physical Infrastructure Networks (DePIN)
 
-### Internet Computer (ICP)
+- ### [Internet Computer](https://internetcomputer.org/) (ICP)
 
-[Internet Computer](https://internetcomputer.org/)
+- ### [Render](https://rendernetwork.com/) (RNDR)
+
+- ### [Filecoin](https://filecoin.io/) (FIL)
+
+- ### [Helium](https://www.helium.com/) (HNT)
+
+- ### [Ocean Protocol](https://oceanprotocol.com/) (OCEAN)
+
+- ### [Crust Network](https://crust.network/) (CRUST)
 
 
 ## Entertainment
 
 ### Gaming
 
+- ### [Vulcan Forged](https://vulcanforged.com/) (PYR)
 
+- ### [Verasity](https://www.verasity.io/?c=US) (VRA)
+
+- ### [Illuvium](https://illuvium.io/) (ILV)
+
+- ### [Gala](https://gala.com/) (GALA)
+
+- ### [Beam](https://onbeam.com/) (BEAM)
+
+- ### [KARRAT](https://www.karratcoin.com/) (KARRAT)
+
+- ### [Gods Unchained](https://godsunchained.com/) (GODS)
+
+- ### [Star Atlas](https://staratlas.com/) (ATLAS)
+
+- ### [Enjin](https://enjin.io/) (ENj)
+
+- ### [Mines of Dalarnia](https://www.minesofdalarnia.com/) (DAR)
+
+- ### [zkRace](https://www.zkrace.com/) (ZERC)
 
 ### Gambling
 
-
+- ### [Ridotto](https://ridotto.io/) (RDT)
 
 ### Non-Fungable Tokens (NFT)
 
+- ### [Altura](https://www.alturanft.com/) (ALU)
 
+- ### [Phantasma](https://phantasma.info/) (SOUL)
 
 ### Social-Fi
 

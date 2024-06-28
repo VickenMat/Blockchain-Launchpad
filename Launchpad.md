@@ -10,10 +10,12 @@ At a [high level](https://mitsloan.mit.edu/ideas-made-to-matter/blockchain-expla
 
 ### Characteristics
 
+- [Decentralized](https://www.lcx.com/what-is-decentralization-in-blockchain/) - Control over the network (authority and decision-making) is equally distributed amongst all participant, elmininating the need for a central authority(individual or organizaton). This distribution of control enhances transparency and fairness while making it resistent to censorship and external manipulation
 - [Distributed](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp) - 
 All network participants have access to the ledger and its record of transactions. Transactions are recorded once and shared across the network
 - [Immutable](https://www.ledger.com/academy/glossary/immutable) - No participant is able to change or tamper with a transaction after it has been recorded in the ledger. If a transaction includes an error, a new transaction must be added to reverse it
-- [Decentralized](https://www.lcx.com/what-is-decentralization-in-blockchain/) - Control over the network (authority and decision-making) is equally distributed amongst all participant, elmininating the need for a central authority(individual or organizaton). This distribution of control enhances transparency and fairness while making it resistent to censorship and external manipulation
+
+![image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*UDQuCant9h02OfmPVc0zqw.png)
 
 ### How it works
 
@@ -55,26 +57,32 @@ If you're looking for project ideas, visit [Blockchain Projects w/ Source Code -
 
 A cryptocurrency is a digital, encrypted, and decentralized medium of exchange that runs on the blockchain. Unlike the U.S. dollar, there is no central authority like the government that manages or maintains the value of it. Instead, these tasks are disributed among the nodes via the Internet. To use a cryptocurrency, you need a wallet, which is a cloud based-service stored on your device intended to store your encryption keys that confirm your identity and link to your crypto.
 
-### Benefits
+### [Benefits](https://www.grantthornton.com/insights/capabilities/advisory/blockchain-101-for-business-the-benefits-and-risks)
 
-Cryptocurrencies offer several benefits in comparison to the traditional financial system
-
-- Independence : Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
-- Accessibility : Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
-- Lower fees : Lower fees than bank transactions, especially compared to global wire transfers
+- Lower fees : Cheaper to transfer money than going through centralized banks, especially compared to global wire transfers
 - Faster times : Receive and send crypto withing minutes as opposed to the 24-48 hour (not including weekends) transfer time
 - Transparency : The blockchain is fully public and immutable, meaning it cannot be manipulated or deleted. Every transaction can be seen or tracked at any time
-- High return potential : Due to its high volatility, they yields a user can make can outdo traditional investments
+- Fraud Detection : A shared blockchain can be used to detect fraud, even when entities are not at liberty to share all the of the identifying details
+- International Trade : As opposed to maneuving through a complex network of negotiations spanning suppliers, manufacturers, distributors, retailers, and countries, blockchains allow you to bypass them and transact with low fees and quick transfers
+- Independence : Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
+- Accessibility : Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
 
-### Risks
+### [Risks](https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto)
 
-There are [risks](https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto) associated with investing in cryptocurrency as we are still in the early adoption phases
-
-- Volatility : The price of crypto has shown to be extremely volatile, showing high highs and low lows
 - Regulatory Uncertainties : Government regulations around the world are constantly evolving and differ from country to country. Regulations may impact how you use or access your crypto, which leads to price volatility. It will take time for policymakers to establish clear and consistent guidelines as the blockchain space is still new
-- Securities and Scams : Some exchange and Web 3 platforms are more secure than others and newer coins could be at a higher scam risk than mor eestablished ones. There is no protection loss or insurance for lost or stolen cryptocurrency.
+- Data Processing Demands : Many blockchains use Proof of Work consensus model, which requires nodes to independently validate transactions through the use of physical compute power
+- Volatility : The values for crypto tokens shift more than typical investments
+- Securities and Scams : Some exchanges and Web3 platforms are more secure than others and newer coins could be at a higher scam risk than mor eestablished ones. There is no protection loss or insurance for lost or stolen cryptocurrency
 - Storage : The two primary ways to store your crypto are on non-custodial wallets on personal devices(hot wallet) or using a third party cold storage wallet. Due to the nature of blockchains, you are soley responsible for the safety and security of your crypto. If you lose your private keys or a virus corrupts your wallet, you may lose your funds.
 
+## Blockchain Layers
+
+![image](https://github.com/VickenMat/Blockchain-Launchpad/assets/113546737/51435efc-bec3-4472-ad9d-c8076661cf20)
+
+
+## Layer-0
+
+[Layer-0](https://www.lcx.com/layers-of-blockchain-explained/) refers to the blockchain itself and provides the fundamental infrastructure, standards, and protocols that govern the network. It is the initial stage of the blockchain that enables Layer-1s to function and includes the Internet, hardware, and a variety of other connections.
 
 ## Layer-1
 
@@ -103,15 +111,11 @@ Key Features
 
 #### [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
-### [BTC/ETH Game Theory - Medium](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
+#### [BTC/ETH Game Theory](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
 
-### Ethereum Token Standards
+#### Ethereum Token Standards
 
-#### [ERC-20 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
-
-#### [ERC-721 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
-
-#### [ERC-1155 - Ethereum](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
+[Token standards](https://crypto.com/university/what-are-token-standards) are a set of rules that run crypto tokens on a blockchain. ERC, or Ethereum Request for Comment is a set of technical documents containing guidelines on developing a smart contract. The most common token standard is [ERC-20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/), which is a blueprint for creating fungible tokens on the Ethereum network. In contast, the primary non-fungible token standards are [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) and [ERC-1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/).
 
 ### Polkadot (DOT)
 
@@ -123,7 +127,7 @@ Key Features
 
 ### Avalanche (AVAX)
 
-[Avalance](https://www.avax.network/) is a platform utliziing Proof of Stake (PoS) for dApps and custom blockchain networks. It aims to support a TPS of 6,500 without compromising scalability through the use of its unique tri-chain structure, the X-Chain (Exchange), C-Chain (Contract), and P-Chain (Platform). Each chain has its distinct purpose and all nodes validate all transactions, which is radically different than the approach Bitcoin and Ethereum use. 
+[Avalance](https://www.avax.network/) is a platform utliziing Proof of Stake (PoS) for DApps and custom blockchain networks. It aims to support a TPS of 6,500 without compromising scalability through the use of its unique tri-chain structure, the X-Chain (Exchange), C-Chain (Contract), and P-Chain (Platform). Each chain has its distinct purpose and all nodes validate all transactions, which is radically different than the approach Bitcoin and Ethereum use. 
 
 ### Binance (BNB)
 
@@ -131,11 +135,11 @@ Key Features
 
 ### Cardano (ADA)
 
-[Cardano](https://cardano.org/) is a Proof of Stake (PoS) blockchain who's goal is to allow "changemakers, innovators, and visionaries" to bring positive global change. It is an open-source project aiming to "redistribute power from unaccountable structures to the margins to individuals" helping create a more transparent and fair society. Cardano is used for the creation of dApps and smart contracts to be developed with modularity.
+[Cardano](https://cardano.org/) is a Proof of Stake (PoS) blockchain who's goal is to allow "changemakers, innovators, and visionaries" to bring positive global change. It is an open-source project aiming to "redistribute power from unaccountable structures to the margins to individuals" helping create a more transparent and fair society. Cardano is used for the creation of DApps and smart contracts to be developed with modularity.
 
 ## Layer-2
 
-As blockchains such as Bitcoin and Ethereum grow in popularity, difficulties in processing transactions quickly and efficiently due to limitations in throughput lead to higher fees and longer confirmation times. Innovations such as Layer-2s are being developed to address these challenges, aiming to enhance the networks capacity to support a larger scale of users without compromising decentralization or security.
+As blockchains such as Bitcoin and Ethereum grow in popularity, difficulties in processing transactions quickly and efficiently due to limitations in throughput lead to higher fees and longer confirmation times. Innovations such as [Layer-2](https://www.lcx.com/layers-of-blockchain-explained/)s are being developed to address these challenges, aiming to enhance the network's capacity to support a larger scale of users without compromising decentralization or security. They are compatible with third-party integrations and elimites Layer-1's restrictions.
 
 ### Blockchain Trilemma
 
@@ -175,10 +179,13 @@ A variety of methods and techniques called Layer-2s have been employed in an eff
 
 [zkSync](https://zksync.io/)
 
+## Layer-3
+
+[Layer-3](https://www.lcx.com/layers-of-blockchain-explained/) is known as the application layer whos primary responsibility is to host DApps and numerous other protocols that facilitate other apps. It is further divided into two sub-layers, application and execution.
 
 ## Oracles
 
-[Oracles](https://ethereum.org/en/developers/docs/oracles/) are applications that source, verify, and transmit off-chain data to smart contracts running on the blockchain. They provide a way for Web3 ecosystems to access existing data sources, legacy systems, and advanced computations, extending the utility and value of dApps. 
+[Oracles](https://ethereum.org/en/developers/docs/oracles/) are applications that source, verify, and transmit off-chain data to smart contracts running on the blockchain. They provide a way for Web3 ecosystems to access existing data sources, legacy systems, and advanced computations, extending the utility and value of DApps. 
 
 For example, let’s assume Alice and Bob want to bet on the outcome of a sports match. Alice bets $20 on team A and Bob bets $20 on team B, with the $40 total held in escrow by a smart contract. When the game ends, how does the smart contract know whether to release the funds to Alice or Bob? The answer is it requires an oracle mechanism to fetch accurate match outcomes offchain and deliver it to the blockchain in a secure and reliable manner.
 
@@ -219,6 +226,8 @@ Oracles act a bridge between blockchains and external systems
 ## Interoperability
 
 [Interoperability](https://www.coinbase.com/learn/crypto-glossary/what-is-blockchain-interoperability) refers to the ability of different blockchain networks to communicate and exchange data with each other. It is crucial for the growth and development of the technology as it allows for seamless interaction to and from all blockchains, enabling the exchange of data and assets without the need for intermediaries. Interoperability is necessary for adoption, scale, and innovation.
+
+![image](https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/643e9cb5d755e681e1c4c2e0_Cross-Chain-Smart-Contracts_2-V1.webp)
 
 ### Cosmos (ATOM)
 
@@ -347,13 +356,13 @@ A [decentralized exchange](https://chain.link/education-hub/what-is-decentralize
 
 Blockchains have the capacity to disrupt any industry, some being central banks, finance, money transfer, micropayments, identity, privacy, IoT, robotics, artificial intelligence, ownership and many more
 
-### dApps
+### DApps
 
-#### [Intro to dApps - Ethereum](https://ethereum.org/en/developers/docs/dapps/)
+#### [Intro to DApps - Ethereum](https://ethereum.org/en/developers/docs/dapps/)
 
-#### [dApps - Investopedia](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
+#### [DApps - Investopedia](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
 
-#### [dApps Explained w/ Examples - Hackernoon](https://hackernoon.com/what-are-decentralized-applications-dapps-explained-with-examples-7ff8f2c4a460)
+#### [DApps Explained w/ Examples - Hackernoon](https://hackernoon.com/what-are-decentralized-applications-dapps-explained-with-examples-7ff8f2c4a460)
 
 
 ## Web 3.0

@@ -289,6 +289,9 @@ A [decentralized exchange](https://chain.link/education-hub/what-is-decentralize
 
 - ### [Crust Network](https://crust.network/) (CRUST)
 
+- ### [Marlin](https://www.marlin.org/) (POND)
+
+- ### [Node AI](https://nodes.ai/) (GPU)
 
 ## Entertainment
 
@@ -326,24 +329,40 @@ A [decentralized exchange](https://chain.link/education-hub/what-is-decentralize
 
 - ### [Phantasma](https://phantasma.info/) (SOUL)
 
+- ### [Torum](https://www.intro.torum.com/?utm_source=cmc) (XMT)
+
 ### Social-Fi
 
-
+- ### [Fusionist](https://ace.fusionist.io/) (ACE)
 
 ## Artificial Intelligence (AI)
 
+- ### [Trias](https://www.trias.one/) (Trias)
+
+- ### [Fetch.ai](https://fetch.ai/) (FET)
+
+- ### [PAAL AI](https://www.paal.ai/) (PAAL)
+
+- ### [0x0.ai](https://0x0.ai/) (0x0)
+
+- ### [Covalent](https://www.covalenthq.com/) (CQT)
+
+- ### [ChainGPT](https://www.chaingpt.org/) (CGPT)
 
 
 ## Real World Assets (RWA)
 
+- ### [Ondo](https://ondo.foundation/) (ONDO)
 
+- ### [Reserve Rights](https://reserve.org/) (RSR)
+
+- ### [Propy](https://propy.com/home/) (PRO)
+
+- ### [Brillion](https://www.brillion.finance/) (DUA)
 
 ## Privacy
 
-
-
-
-
+- ### [Monero](https://www.getmonero.org/) (XMR)
 
 ***
 

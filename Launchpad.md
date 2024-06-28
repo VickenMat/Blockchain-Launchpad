@@ -370,11 +370,7 @@ A [decentralized exchange](https://chain.link/education-hub/what-is-decentralize
 
 ![image](https://originstamp.com/blog/what-is-ethereum-and-what-are-its-use-cases/smart-contracts.png)
 
-#### [Smart Contracts - Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
-
-#### [What are Smart Contracts - IBM](https://www.ibm.com/topics/smart-contracts)
-
-#### [Smart Contracts Explained - BitDegree](https://www.bitdegree.org/crypto/tutorials/what-is-a-smart-contract)
+[Smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/) are self-executing digital contracts stored on the blockchain in the form of computer code. The [transactions](https://www.bitdegree.org/crypto/tutorials/what-is-a-smart-contract) that happen in a smart contract are processed by the blockchain, and therefore can be sent automatically without a third party. They are immutable and transparent, and execute when when predetermined terms and conditions are met. Smart contracts are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome. Smart contracts are the base of DApps and can be used for a multitude of purposes such as supply chain transparency, trade finance, and food supply. All Layer-2 protocols run on smart contracts.
 
 #### [Intro to Smart Contracts and their Limitations - Harvard Law](https://corpgov.law.harvard.edu/2018/05/26/an-introduction-to-smart-contracts-and-their-potential-and-inherent-limitations/)
 

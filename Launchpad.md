@@ -97,17 +97,17 @@ Key Features
 - Scalability : Many blockchains face the issue of scalability as they need to accomodate for a large amount of users
 - Smart Contracts : Various blockchains such as Ethereum support the execution of smart contracts, which are self-executing contracts with the terms of agreement directly written in the code
 
-### Bitcoin (BTC)
+### [Bitcoin](https://bitcoin.org/en/) (BTC)
 
 ![image](https://www.investopedia.com/thmb/dERboL3dYS7NCsTY5NgB6b8thIQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Blockchain_Sep_2020-01-60f31a638c4944abbcfde92e1a408a30.jpg)
 
-[Bitcoin](https://bitcoin.org/en/), is a peer-to-peer cryptocurrency, meaning that all transactions happen between equal, independent network participants without the need for intermediaries. Bitcoin was created to allow "online payments to be sent directly from one part to another without going through a financial institution" and is designed for value transfer. It is the the first and most well-known blockchain and utilizes the Proof of Work (PoW) consensus mechanism. Bitcoin employs various techniques that are now common such as [mining](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/) and the [Bitcoin Halving](https://www.investopedia.com/bitcoin-halving-4843769).
+Bitcoin, is a peer-to-peer cryptocurrency, meaning that all transactions happen between equal, independent network participants without the need for intermediaries. Bitcoin was created to allow "online payments to be sent directly from one part to another without going through a financial institution" and is designed for value transfer. It is the the first and most well-known blockchain and utilizes the Proof of Work (PoW) consensus mechanism. Bitcoin employs various techniques that are now common such as [mining](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/) and the [Bitcoin Halving](https://www.investopedia.com/bitcoin-halving-4843769).
 
 #### [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
-### Ethereum (ETH)
+### [Ethereum](https://ethereum.org/en/) (ETH)
 
-[Ethereum](https://ethereum.org/en/) is an open-source blockchain renowned for its ability to create smart contracts and be a platform for decentralized applications. It introduced the idea of programmable money, revolutionizing the blockchain landscape. It employs a Proof of Work (PoW) consensus mechanism , although it is transitioning to Proof of Stake (PoS) in Ethereum 2.0. Additional information on Ethereum can be found at [Intro to Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/) and [Intro to Ether](https://ethereum.org/en/developers/docs/intro-to-ether/)
+Ethereum is an open-source blockchain renowned for its ability to create smart contracts and be a platform for decentralized applications. It introduced the idea of programmable money, revolutionizing the blockchain landscape. It employs a Proof of Work (PoW) consensus mechanism , although it is transitioning to Proof of Stake (PoS) in Ethereum 2.0. Additional information on Ethereum can be found at [Intro to Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/) and [Intro to Ether](https://ethereum.org/en/developers/docs/intro-to-ether/)
 
 #### [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
@@ -117,25 +117,25 @@ Key Features
 
 [Token standards](https://crypto.com/university/what-are-token-standards) are a set of rules that run crypto tokens on a blockchain. ERC, or Ethereum Request for Comment is a set of technical documents containing guidelines on developing a smart contract. The most common token standard is [ERC-20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/), which is a blueprint for creating fungible tokens on the Ethereum network. In contast, the primary non-fungible token standards are [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) and [ERC-1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/).
 
-### Polkadot (DOT)
+### [Polkadot](https://polkadot.network/) (DOT)
 
-[Polkadot](https://polkadot.network/) is an open-source sharded multichain protocol that focuses on interoperability between different Layer-1 blockchains. It enables the seamless transfer of assets and data across multiple chains while utilizing a unique shared responsibility model and the Nominated Proof of Stake (NPoS) consensus mechanism.
+Polkadot is an open-source sharded multichain protocol that focuses on interoperability between different Layer-1 blockchains. It enables the seamless transfer of assets and data across multiple chains while utilizing a unique shared responsibility model and the Nominated Proof of Stake (NPoS) consensus mechanism.
 
-### Solana (SOL)
+### [Solana](https://solana.com/) (SOL)
 
-[Solana](https://solana.com/) aims to resolve the scalability issues of L1 blockchains by employing a Proof of History consensus to achieve TPS of up to 65,000. It is an open-source project capitalizing on the blockchain's permissionless strcuture to provide decentralized finance (DeFi) solutions.
+Solana aims to resolve the scalability issues of L1 blockchains by employing a Proof of History consensus to achieve TPS of up to 65,000. It is an open-source project capitalizing on the blockchain's permissionless strcuture to provide decentralized finance (DeFi) solutions.
 
-### Avalanche (AVAX)
+### [Avalance](https://www.avax.network/) (AVAX)
 
-[Avalance](https://www.avax.network/) is a platform utliziing Proof of Stake (PoS) for DApps and custom blockchain networks. It aims to support a TPS of 6,500 without compromising scalability through the use of its unique tri-chain structure, the X-Chain (Exchange), C-Chain (Contract), and P-Chain (Platform). Each chain has its distinct purpose and all nodes validate all transactions, which is radically different than the approach Bitcoin and Ethereum use. 
+Avalanche is a platform utliziing Proof of Stake (PoS) for DApps and custom blockchain networks. It aims to support a TPS of 6,500 without compromising scalability through the use of its unique tri-chain structure, the X-Chain (Exchange), C-Chain (Contract), and P-Chain (Platform). Each chain has its distinct purpose and all nodes validate all transactions, which is radically different than the approach Bitcoin and Ethereum use. 
 
-### Binance (BNB)
+### [Binance](https://www.binance.com/en) (BNB)
 
-[Binance](https://www.binance.com/en) aims to bring cryptocurrency exchanges to the forefront of financial global activity. Aside from being the largest crypto exchange in the world, Binance has a whole ecosystem of functionalities such as the Binance Chain, Binance Smart Chain, Binance Academy, and Trust Wallet. Binance uses a combination of Proof of Stake (PoS) and Proof of Authority (PoA) to validate network transaction.
+Binance aims to bring cryptocurrency exchanges to the forefront of financial global activity. Aside from being the largest crypto exchange in the world, Binance has a whole ecosystem of functionalities such as the Binance Chain, Binance Smart Chain, Binance Academy, and Trust Wallet. Binance uses a combination of Proof of Stake (PoS) and Proof of Authority (PoA) to validate network transaction.
 
-### Cardano (ADA)
+### [Cardano](https://cardano.org/) (ADA)
 
-[Cardano](https://cardano.org/) is a Proof of Stake (PoS) blockchain who's goal is to allow "changemakers, innovators, and visionaries" to bring positive global change. It is an open-source project aiming to "redistribute power from unaccountable structures to the margins to individuals" helping create a more transparent and fair society. Cardano is used for the creation of DApps and smart contracts to be developed with modularity.
+Cardano is a Proof of Stake (PoS) blockchain who's goal is to allow "changemakers, innovators, and visionaries" to bring positive global change. It is an open-source project aiming to "redistribute power from unaccountable structures to the margins to individuals" helping create a more transparent and fair society. Cardano is used for the creation of DApps and smart contracts to be developed with modularity.
 
 ## Layer-2
 
@@ -159,25 +159,25 @@ Capacity of a blockchain network to handle an increasing volume of users and tra
 
 A variety of methods and techniques called Layer-2s have been employed in an effort to increase blockchain scalability such as [Optimistic Rollups](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/), [Zero Knowledge Rollups](https://ethereum.org/en/developers/docs/scaling/zk-rollups/), [State Channels](https://ethereum.org/en/developers/docs/scaling/state-channels/), [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains), [Plasma](https://ethereum.org/en/developers/docs/scaling/plasma), and [Validium](https://ethereum.org/en/developers/docs/scaling/validium/)
 
-### Polygon (MATIC)
+### [Polygon](https://polygon.technology/) (MATIC)
 
-[Polygon](https://polygon.technology/)
 
-### Arbitrum (ARB)
 
-[Arbitrum](https://arbitrum.io/)
+### [Arbitrum](https://arbitrum.io/) (ARB)
 
-### Immutable X (IMX)
 
-[Immutable X](https://www.immutable.com/)
 
-### Optimism (OP)
+### [Immutable X](https://www.immutable.com/) (IMX)
 
-[Optimism](https://www.optimism.io/)
 
-### zkSync (ZK)
 
-[zkSync](https://zksync.io/)
+### [Optimism](https://www.optimism.io/) (OP)
+
+
+
+### [zkSync](https://zksync.io/) (ZK)
+
+
 
 ## Layer-3
 
@@ -195,33 +195,33 @@ By default, Ethereum based smart contracts cannot access information stored outs
 ![image](https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/65672cc1d35b5ee20cdfd250_k5eK0BYEazoyssAp_SjmzvQ30GAPnyH6cCf8zvrKQGPkfp36HjYg-EP21x_H8EqKHLZC8Vzrr477MkSaQo6Ev6drkcGZUsojPSrTZ2GUL_Ga4RQCMYFKBXaEtoyeaMipWfTWA365VeRbImjdD0Scanw.png)
 Oracles act a bridge between blockchains and external systems
 
-### Chainlink (LINK)
+### [Chainlink](https://chain.link/) (LINK)
 
-[Chainlink](https://chain.link/) is a decentralized blockchain [oracle](https://chain.link/education/blockchain-oracles) network built on Ethereum. It is used to facilitate the transfer of tamper-proof data from off-chain sources to on-chain smart contracts. It's [importance](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283) cannot go understated as it supplies a stream of real world data to all smart contracts that need it. The [use cases](https://blog.chain.link/smart-contract-use-cases/) extend to DeFi, Chross-Chain Interoperability Protocol (CCIP), Verifiable Random Function (VRF), Proof of Reserve (PoR), Automation and much more. 
+Chainlink is a decentralized blockchain [oracle](https://chain.link/education/blockchain-oracles) network built on Ethereum. It is used to facilitate the transfer of tamper-proof data from off-chain sources to on-chain smart contracts. It's [importance](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283) cannot go understated as it supplies a stream of real world data to all smart contracts that need it. The [use cases](https://blog.chain.link/smart-contract-use-cases/) extend to DeFi, Chross-Chain Interoperability Protocol (CCIP), Verifiable Random Function (VRF), Proof of Reserve (PoR), Automation and much more. 
 
-### Pyth Network (PYTH)
+### [Pyth Network](https://pyth.network/) (PYTH)
 
-[Pyth Network](https://pyth.network/)
 
-### API3 (API3)
 
-[API3](https://api3.org/) 
+### [API3](https://api3.org/) (API3)
+
+ 
 
 ## Stablecoins
 
 [Stablecoins](https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold) are a type of cryptocurrency that maintains a stable value by pegging their price to another currency or commodity. This makes them different than most other cryptocurrencies which are more volatile and don't have tangible assets backing them. Stablecoins can be used as a medium of exchange similar to a digital dollar becauase their value is designed to not change. There are multiple ways to maintain a stablecoin, one being backing it 1 to 1, meaning there exists 1 dollar in a vault somewhere that I can exchange it for guaranteed. The problem is that there needs to be billions of dollars waiting to be exchanged and if not there remains the risk of not being able to back it should everyone sell. The other method is called an algorithmic stablecoin. The idea is that it's backed by nothing, similar to fiat currency, but uses an cryptographic algorithm of bots who buy, sell, create, and burn tokens to keep the price constant if it rises or falls below a certain level. 
 
-### Tether (USDT)
+### [Tether](https://tether.to/en/) (USDT)
 
-[Tether](https://tether.to/en/) is a stablecoin pegged to the U.S. dollar designed to allow the use of fiat currencies in a digital manner. It gives the ability to transact with traditional currencies across the blockchain, without the inherent volatility and complexity associated with a cryptocurrency. USDT does not have its own blockchain but instead operates as a second layeron top of Layer-1s such as Bitcoin or Ethereum.
+Tether is a stablecoin pegged to the U.S. dollar designed to allow the use of fiat currencies in a digital manner. It gives the ability to transact with traditional currencies across the blockchain, without the inherent volatility and complexity associated with a cryptocurrency. USDT does not have its own blockchain but instead operates as a second layeron top of Layer-1s such as Bitcoin or Ethereum.
 
-### USDC (USDC)
+### [USDC](https://www.circle.com/en/usdc) (USDC)
 
-[USDC](https://www.circle.com/en/usdc) is stablecoin backed by the U.S. dollar at a 1:1 ratio. Every unit of this crypto in circulation equates to $1 that is held in reserve, a mix of cash and short term U.S. Treasury Bonds. It provides a safe haven for traders in times of volatility and allows businesses to accept digital asset payments without the fear of price fluctuation.
+USDC is stablecoin backed by the U.S. dollar at a 1:1 ratio. Every unit of this crypto in circulation equates to $1 that is held in reserve, a mix of cash and short term U.S. Treasury Bonds. It provides a safe haven for traders in times of volatility and allows businesses to accept digital asset payments without the fear of price fluctuation.
 
-### Dai (DAI)
+### [DAI](https://makerdao.com/en/) (DAI)
 
-[DAI](https://makerdao.com/en/) is an Ethereum based stablecoin whose issuance and governance is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization (DAO). It's price is soft-pegged to the U.S. dollar and is collateralized by a mix of other cryptocurrencies that are deposited into smart contract vaults every time DAI is minted.
+Dai is an Ethereum based stablecoin whose issuance and governance is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization (DAO). It's price is soft-pegged to the U.S. dollar and is collateralized by a mix of other cryptocurrencies that are deposited into smart contract vaults every time DAI is minted.
 
 ## Interoperability
 
@@ -229,21 +229,21 @@ Oracles act a bridge between blockchains and external systems
 
 ![image](https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/643e9cb5d755e681e1c4c2e0_Cross-Chain-Smart-Contracts_2-V1.webp)
 
-### Cosmos (ATOM)
+### [Cosmos](https://cosmos.network/) (ATOM)
 
-[Cosmos](https://cosmos.network/)
 
-### Quant (QNT)
 
-[Quant](https://quant.network/)
+### [Quant](https://quant.network/) (QNT)
 
-### Axelar (AXL)
 
-[Axelar](https://axelar.network/) 
 
-### Darwinia Network (RING)
+### [Axelar](https://axelar.network/)  (AXL)
 
-[Darwinia Network](https://darwinia.network/)
+
+
+### [Darwinia Network](https://darwinia.network/) (RING)
+
+
 
 
 ## Decentralized Finance (DeFi)
@@ -256,45 +256,45 @@ There are many DeFi [projects](https://defiprime.com/) used by millions of peopl
 
 A [decentralized exchange](https://chain.link/education-hub/what-is-decentralized-exchange-dex) is a peer-to-peer marketplace that enable users to trade crypto assets through blockchain transactions without the need for a custodian of centralized authority. Smart contracts facilitate the exchange of the assets and DEXs are the cornerstone of DeFi which allows more sophisticated financial products to be built on top of it.
 
-- ### Uniswap (UNI)
+- ### [Uniswap](https://uniswap.org/) (UNI)
 
-[Uniswap](https://uniswap.org/)
 
-- ### Pancakeswap (CAKE)
 
-[Pancakeswap](https://pancakeswap.finance/)
+- ### [Pancakeswap](https://pancakeswap.finance/) (CAKE)
 
-- ### Trader Joe (JOE)
 
-[Trader Joe](https://traderjoexyz.com/avalanche)
 
-- ### Jupiter (JUP)
+- ### [Trader Joe](https://traderjoexyz.com/avalanche) (JOE)
 
-[Jupiter](https://station.jup.ag/)
 
-- ### Sushiswap (SUSHI)
 
-[Sushiswap](https://www.sushi.com/swap)
+- ### [Jupiter](https://station.jup.ag/) (JUP)
+
+
+
+- ### [Sushiswap](https://www.sushi.com/swap) (SUSHI)
+
+
 
 ### Lending
 
 [Lending protocols](https://www.theblock.co/learn/245710/what-are-decentralized-lending-protocols) are an application of DeFi in which users can lend and borrow funds directly from each other, bypassing the need for a centralized authoritiy. Users retain full control of their assets at all times through smart contacts which allow for a transparent, immutable, and automated system for lending and borrowing. 
 
-- ### Aave (AAVE)
+- ### [Aave](https://aave.com/) (AAVE)
 
-[Aave](https://aave.com/)
 
-- ### Compound (COMP)
 
-[Compound](https://compound.finance/governance/comp)
+- ### [Compound](https://compound.finance/governance/comp) (COMP)
 
-- ### Curve (CRV)
 
-[Curve](https://curve.fi/#/ethereum/swap)
 
-- ### Aerodome (AERO)
+- ### [Curve](https://curve.fi/#/ethereum/swap) (CRV)
 
-[Aerodome](https://aerodrome.finance/)
+
+
+- ### [Aerodome](https://aerodrome.finance/) (AERO)
+
+
 
 ## Decentralized Physical Infrastructure Networks (DePIN)
 

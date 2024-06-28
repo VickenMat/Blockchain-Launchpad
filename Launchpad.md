@@ -388,7 +388,7 @@ Blockchains have the capacity to disrupt any industry, some being central banks,
 
 ![image](https://www.freshconsulting.com/wp-content/uploads/fly-images/33914/web1vsweb2vsweb3-1920x9999.png)
 
-[Web3 - Coinmarketcap](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) is an ecosysem of DApps living on the web and built on the new foundations of blockchain technology. 
+[Web3](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) is an ecosysem of DApps living on the web and built on the new foundations of blockchain technology. 
 
 To understand Web3, we must go back and gain an understanding of Web1 and Web2. Web1 was the first draft of the Internet, made for reading web pages and chatting with people. As Web1 progressed, individuals and companies began using the Internet increasingly for e-commerce. Web2 came around in the mid 2000's when a new crop of big tech companies such as Facebook, Twitter, and Wikipedia - empowered users to create their own content. However, there was a cost to these "free-to-use" social software platforms. In the Web2 era, control over content and data is ran through centralzied corporations who monetize user activity and data by selling them to advertisers. Web3 describes an Internet supported by blockchain technology, smart contracts, and digital assets and tokens. It would change how information is managed, how the Internet is monetized, and how web-based corporations. Web2 and Web3 apps can run on the same browsers and operating systems, but they're fundamentally different in how they work. Instead of [trusting](https://ethereum.org/en/developers/docs/web2-vs-web3/) a central entity, Web3 is designed so that a transactin goes through only if certain criteria are met and data are verified.
 

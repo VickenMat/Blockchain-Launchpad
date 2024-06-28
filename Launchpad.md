@@ -64,7 +64,8 @@ A cryptocurrency is a digital, encrypted, and decentralized medium of exchange t
 - Transparency : The blockchain is fully public and immutable, meaning it cannot be manipulated or deleted. Every transaction can be seen or tracked at any time
 - Fraud Detection : A shared blockchain can be used to detect fraud, even when entities are not at liberty to share all the of the identifying details
 - International Trade : As opposed to maneuving through a complex network of negotiations spanning suppliers, manufacturers, distributors, retailers, and countries, blockchains allow you to bypass them and transact with low fees and quick transfers
-- Independence : Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility
+- Independence : Cryptocurrencies are designed to be decentralized without the control of a single government or central bank. Users have unrestricted access to their coins, but this also means full responsibility. You can store them in [hot or cold storage](https://investorjunkie.com/crypto/hot-wallet-vs-cold-wallet/)
+
 - Accessibility : Users do not need access to traditional banking and its resitrictions to use or purchase tokens. All that is required is an internet connection and a wallet address
 
 ### [Risks](https://www.fidelity.com/learning-center/trading-investing/crypto/risks-and-benefits-of-crypto)
@@ -396,12 +397,7 @@ An example of how a Web3 transaction would go through is to imagine someone look
 
 ***
 
-## Storage
-
-#### [Hot v Cold Storage](https://investorjunkie.com/crypto/hot-wallet-vs-cold-wallet/)
-
-
 ## Books
 
-
+### [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
 

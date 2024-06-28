@@ -380,28 +380,25 @@ A [decentralized exchange](https://chain.link/education-hub/what-is-decentralize
 
 Blockchains have the capacity to disrupt any industry, some being central banks, finance, money transfer, micropayments, identity, privacy, IoT, robotics, artificial intelligence, ownership and many more
 
-### DApps
+### Decentralized Applications (DApps)
 
-#### [Intro to DApps - Ethereum](https://ethereum.org/en/developers/docs/dapps/)
+[DApps](https://ethereum.org/en/developers/docs/dapps/) are applications that run on blockchain networks, similar to websites on the Internet. They are powered by smart contracts and operate on a peer-to-peer network. When you use a DApp, your information isn't controlled by a single company or server, rather the blockchain network itself. They can serve various [purposes](https://hackernoon.com/what-are-decentralized-applications-dapps-explained-with-examples-7ff8f2c4a460) as seen in the cryptocurrencies above such as finance, gaming, supply chain, voting, NFTs, and much more.
 
-#### [DApps - Investopedia](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
+## Web3
 
-#### [DApps Explained w/ Examples - Hackernoon](https://hackernoon.com/what-are-decentralized-applications-dapps-explained-with-examples-7ff8f2c4a460)
+![image](https://www.freshconsulting.com/wp-content/uploads/fly-images/33914/web1vsweb2vsweb3-1920x9999.png)
 
+[Web3 - Coinmarketcap](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) is an ecosysem of DApps living on the web and built on the new foundations of blockchain technology. 
 
-## Web 3.0
+To understand Web3, we must go back and gain an understanding of Web1 and Web2. Web1 was the first draft of the Internet, made for reading web pages and chatting with people. As Web1 progressed, individuals and companies began using the Internet increasingly for e-commerce. Web2 came around in the mid 2000's when a new crop of big tech companies such as Facebook, Twitter, and Wikipedia - empowered users to create their own content. However, there was a cost to these "free-to-use" social software platforms. In the Web2 era, control over content and data is ran through centralzied corporations who monetize user activity and data by selling them to advertisers. Web3 describes an Internet supported by blockchain technology, smart contracts, and digital assets and tokens. It would change how information is managed, how the Internet is monetized, and how web-based corporations. Web2 and Web3 apps can run on the same browsers and operating systems, but they're fundamentally different in how they work. Instead of [trusting](https://ethereum.org/en/developers/docs/web2-vs-web3/) a central entity, Web3 is designed so that a transactin goes through only if certain criteria are met and data are verified.
 
-#### [Web 2 v Web 3 - Ethereum](https://ethereum.org/en/developers/docs/web2-vs-web3/)
-
-#### [Web3 - Coinmarketcap](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
-
-#### [What is Web3 - NYTimes](https://www.nytimes.com/interactive/2022/03/18/technology/web3-definition-internet.html)
+An example of how a Web3 transaction would go through is to imagine someone looking to buy a concert ticket. Every ticket on this Web3 enabled site is assigned a unqiue, immutable, and verifiable identity that is tied to a real person. Before the buyer purchases their ticket, the majority of nodes on the network validate the seller's credentials, ensuring the ticket is real. The buyer then pays for the ticket with their digital currency. 
 
 ***
 
 ## Storage
 
-#### [Hot v Cold Storage - InvestorJunkie](https://investorjunkie.com/crypto/hot-wallet-vs-cold-wallet/)
+#### [Hot v Cold Storage](https://investorjunkie.com/crypto/hot-wallet-vs-cold-wallet/)
 
 
 ## Books
